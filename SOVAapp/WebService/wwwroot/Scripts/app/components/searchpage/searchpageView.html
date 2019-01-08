@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<body>
+
+     
+    <div id="loading" data-bind= "visible: noElements">
+       <span>Loading</span> 
+        <div class="dotsContainer">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th id="thsearchbar" class="my_searchbar_th">
+
+                    <input id ="mySearchBar" type="text" data-bind="textInput:searchText" name="FirstName" value="Mickey">
+               
+                </th>
+                <th class="my_searchbar_th">
+                    <button id="submit" data-bind="click:startSearching" type="submit" class="btn btn-primary">GO!</button>
+                </th>
+            </tr>
+        </thead>
+        </table>
+
+    <div class="linked_posts">
+        <span id="linkposts_button" data-toggle="collapse" data-target="#links"><h2 data-bind="text:searchhistory().length"></h2> <h2>Search history </h2><span>&#9660;</span></span>
+        <div id="links" class="collapse">
+            <div data-bind="foreach:searchhistory">
+
+                <div data-toggle="collapse" data-target="#links" data-bind="click:$parent.searchItAgain.bind($data,searchText)" class="linked_posts_title"><div data-bind="text:searchText"></div> </div>
+
+            </div>
+        </div>
+    </div>
+    <br />
+      <!--Search Data-->
+
+            <div id="mySearchData" data-bind="foreach:searchData">
+                <div class="searchTR" data-bind="click: $parent.gotoquestion.bind($data, postId, $root)">
+                    
+                        <!--WordCloud -->
+                        <div  class="word_cloud_container" data-bind="component: {name: $parent.jcloudComponent , params:{jCloudUrl:jCloudUrl}}" id="answer"></div>
+                   
+
+                    <div class="searchedTitel" data-bind="text:postTitle"></div>
+                    <span class="tags_icon"></span><div class="questions_tags_container" data-bind="foreach:tags"><span class="questions_tags" data-bind="text:$data"></span></div>
+                </div>
+
+            </div>
+
+      
+        <span class="page_status">Results: </span>
+        <span data-bind="text: total"></span>
+        <span class="page_status">Pages: </span>
+        <span data-bind="text: totalPages"></span>
+        <span class="page_status">Page: </span>
+        <span data-bind="text: pageNumber"></span><br><br>
+        <span data-bind="if: prev"><button class="page_button" data-bind="click: prevClick"><span style="font-size:11px;">&#9668;</span>&nbsp  Prev</button></span>
+        <span data-bind="if: next"><button class="page_button" data-bind="click: nextClick">Next  &nbsp<span style="font-size:11px;"> &#9658;</span></button></span>
+        <div class="spacer"></div>
+</body>

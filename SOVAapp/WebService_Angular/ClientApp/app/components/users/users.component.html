@@ -1,0 +1,45 @@
+<h1>Users</h1>
+<div id="loading" *ngIf="!users.data">
+    <span>Loading</span>
+    <div class="dotsContainer">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+<div  *ngIf="users.data">
+
+
+    <section>
+
+        <div class="questions_container" >
+            <div *ngFor="let u of users.data">
+            <div class="user_container" >
+                <div class="users_displayname">
+                    <span class="user_icon user_icon_users"></span>
+                    <span class="users_displayname users_displayname_users">{{u.displayName}}</span>
+                    <span class="location_container"><span class="location_icon"></span><span>{{u.location}}</span></span>
+                    <span class="users_displayname users_displayname_users users_see_questions" *ngIf="u.questionsUrl!=null"  [routerLink]="['/questions']" [queryParams]="{ page:0, url:u.questionsUrl }">See questions</span>
+
+                </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="spacer"></div>
+
+
+    </section>
+
+
+    <span class="page_status">Results: </span>
+    <span>{{users.total}}</span>
+    <span class="page_status">Pages: </span>
+    <span>{{users.pages}}</span>
+    <span class="page_status">Page: </span>
+    <span>{{users.page + 1}}</span><br><br>
+    <span *ngIf="users.prev" ><button class="page_button" (click)="goToPrevPage(users.prev,users.page)"><span style="font-size:11px;">&#9668;</span>&nbsp;  Prev</button></span>
+    <span  *ngIf="users.next"><button class="page_button" (click)="goToNextPage(users.next,users.page)">Next  &nbsp;<span style="font-size:11px;"> &#9658;</span></button></span>
+    <br /><br />
+</div>

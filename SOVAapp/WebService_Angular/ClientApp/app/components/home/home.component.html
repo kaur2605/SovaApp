@@ -1,0 +1,47 @@
+
+
+<div id="loading" *ngIf="!customization && QNotloaded">
+    <span>Loading</span>
+    <div class="dotsContainer">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+
+
+    <!-- Favourite Questions-->
+    <h1 id="Home_title">Recommended Questions</h1>
+    <div *ngIf="customization">
+        <div>
+            <span class="customefieldtitle">Selected Post Limit: </span> <span>{{customization.postLimit}}</span>
+        </div>
+
+
+        <div>
+            <span class="customefieldtitle">Your Favourite Tags: </span> <span *ngFor="let f of customization.favortieTags">
+
+                <span class="questions_tags">{{f}}</span>
+            </span>
+        </div>
+    </div>
+    <div class="questions_container" *ngIf="suggestedQuestions" >
+        <div *ngFor="let s of suggestedQuestions">
+            <div class="question_container" *ngIf="postId!=0" (click)="goToQuestion(s.postId)">
+                <div class="questions_title"><span>{{s.title}}</span></div>
+                <div class="questions_user"><span class="user_icon"></span><span class="questions_user_name">{{s.user}}</span></div>
+                <span class="tags_icon"></span><div class="questions_tags_container" *ngFor="let f of s.tags"><span class="questions_tags">{{f}}</span></div>
+                <div class="Questions_score_block">
+                    <span class="question_score_sign">&#x270C;</span><div id="score">{{s.score}}</div>
+                </div>
+            </div>
+            <div id="no_matching_post" *ngIf="postId==0">
+
+                There's no matching post according to your favourite tags
+            </div>
+        </div>
+    </div>
+
+<div class="spacer"></div>
+
+

@@ -1,0 +1,45 @@
+﻿<head>
+    <link rel="stylesheet" type="text/css" href="scripts/lib/StyleSheet1.css">
+</head>
+<h1>Users</h1>
+<div>
+    <div id="loading" data-bind="visible: noElements">
+        <span>Loading</span>
+        <div class="dotsContainer">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+
+    <section>
+
+        <div class="questions_container" data-bind="foreach: data">
+            <div class="user_container" data-bind="">
+                <div class="users_displayname"><span class="user_icon user_icon_users"></span>
+                <span class="users_displayname users_displayname_users" data-bind="text: displayName"></span>
+                <span class="location_container"><span class="location_icon"></span><span  data-bind="text: location"></span></span>
+                    <span class="users_displayname users_displayname_users users_see_questions" data-bind="visible:(questionsUrl!==null),click: $parent.gotoquestions.bind($data, questionsUrl, $root)">See questions</span>
+
+                
+                </div>
+          </div>
+        </div>
+
+
+        <div class="spacer"></div>
+
+
+    </section>
+
+
+    <span class="page_status">Results: </span>
+    <span data-bind="text: total"></span>
+    <span class="page_status">Pages: </span>
+    <span data-bind="text: totalPages"></span>
+    <span class="page_status">Page: </span>
+    <span data-bind="text: pageNumber"></span><br><br>
+    <span data-bind="if: prev"><button class="page_button" data-bind="click: prevClick"><span style="font-size:11px;">&#9668;</span>&nbsp  Prev</button></span>
+    <span data-bind="if: next"><button class="page_button" data-bind="click: nextClick">Next  &nbsp<span style="font-size:11px;"> &#9658;</span></button></span>
+    <br /><br />
+</div>

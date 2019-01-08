@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> SOVA App</title>
+	<link href="Content/normalize.css" rel="stylesheet"/>
+	<meta charset="utf-8"/>
+	<link href="Content/bootstrap.min.css" rel="stylesheet"/>
+    <link href="scripts/lib/jqcloud2/dist/jqcloud.css" rel="stylesheet" />
+	<script src="scripts/lib/modernizr-2.8.3.js"></script>
+    <link href="scripts/lib/Style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+
+</head>
+<body>
+
+	<div class="container-fluid">
+		<div data-bind="component: menuComponent"></div>
+	</div>
+
+	<div id ="main_component" class="container-fluid">
+		<div data-bind="component: { name: currentComponent, params: paramsData }"></div>
+    
+	</div>
+
+    <div id="footer"></div>
+<script data-main="Scripts/main" src="Scripts/lib/require.js"></script>
+
+  
+</body>
+</html>

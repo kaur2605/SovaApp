@@ -1,0 +1,121 @@
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\SOVAapp\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Desktop\pp4\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\DataService\obj\Debug\netcoreapp2.0\DataService.pdb

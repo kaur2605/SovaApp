@@ -1,0 +1,35 @@
+
+<h1>Markings</h1>
+<div>
+
+    <div id="loading" *ngIf="!markings">
+        <span>Loading</span>
+        <div class="dotsContainer">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+
+
+    <div class="questions_container"  >
+        <div *ngFor="let m of markings.data">
+            <div class="marking_container" (click)="goToQuestion(m.postId)">
+                <div class="marking_title"><span>{{m.postTitle}}</span></div>
+            </div>
+        </div>
+
+
+
+    </div>
+    <span class="page_status">Results: </span>
+    <span >{{markings.total}}</span>
+    <span class="page_status">Pages: </span>
+    <span>{{markings.pages}}</span>
+    <span class="page_status">Page: </span>
+    <span>{{markings.page + 1}}</span><br><br>
+
+      <span *ngIf="markings.prev"><button class="page_button" (click)="goToPrevPage(markings.prev,markings.page)"><span style="font-size:11px;">&#9668;</span>&nbsp;  Prev</button></span>
+    <span *ngIf=" markings.next"><button class="page_button" (click)="goToNextPage(markings.next,markings.page)">Next  &nbsp;<span style="font-size:11px;"> &#9658;</span></button></span>
+    <div class="spacer"></div>
+</div>

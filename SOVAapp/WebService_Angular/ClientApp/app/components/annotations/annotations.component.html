@@ -1,0 +1,41 @@
+
+<div id="annotations_box" class="linked_posts">
+    <div>
+        <span id="annotations_box_button" data-toggle="collapse-next" data-target="#Anott"><h2>{{annotations.markingAnnotation.length}}</h2> <h2>Annotations</h2><span>&#9660;</span></span>
+    </div>
+        <div id="Anott" class="collapse">
+        <div *ngFor="let a of annotations.markingAnnotation">
+            <div data-toggle="collapse" class="annotations_text">
+                Note: <div class="annot_text" *ngIf="currentEdit != a.editAnnotation" >{{a.annotationText}} </div>
+
+                <textarea  class="form-control myForm" rows="5" id="comment"  *ngIf="currentEdit == a.editAnnotation" [(ngModel)]="a.annotationText" ></textarea>
+                <!--Delete-->
+                <span class="delete_annot" (click) ="deleteAnnotation(a.removeAnnotation)">Delete</span>
+                <!--Edit-->
+                <span  class="edit_annot" *ngIf="currentEdit != a.editAnnotation" (click)="startEditing(a.editAnnotation)"> Edit</span>
+                <!--Save-->
+                <span  class="edit_annot"  *ngIf="currentEdit == a.editAnnotation" (click)="editAnnotation(a.annotationText,a.editAnnotation)">Save</span>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+
+<div id="AnnotButton" (click)="addAnottation()">
+
+    <span>&#9998;</span>
+
+</div>
+
+
+<div *ngIf="isNewAnnotation">
+    <section id="annotation_box">
+        <div id="triangle"></div>
+        <span id="cancelAnnot" (click)="abortAnnotation()"> &#10005;</span>
+        <div><textarea id="annotation_text_field" [(ngModel)]="annotationBody" > </textarea></div>
+        <button id="annotation_submit_button" class="page_button" (click)="createAnnotation(annotations.addAnnotation)"> <!--data-bind="click: createAnnotation.bind($data, annotationBody)"-->Create Annotation</button>
+    </section>
+</div>
+

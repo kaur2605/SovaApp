@@ -1,0 +1,37 @@
+﻿<button class="page_button" data-bind="visible:isTherePrev(),click: goback">&lt;&lt; Back</button>
+
+<h1>Questions</h1>
+<div>
+
+    <div id="loading" data-bind="visible: noElements">
+        <span>Loading</span>
+        <div class="dotsContainer">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+
+    <div class ="questions_container" data-bind="foreach: data">
+        <div class="question_container" data-bind="click: $parent.gotoquestion.bind($parent,postId, $root)">
+            <div class="questions_title"><span data-bind="text: title"></span></div>
+            <div class="questions_user"><span class="user_icon"></span><span class="questions_user_name"data-bind="text: userName"></span></div>
+            <span class="tags_icon"></span> <div class="questions_tags_container" data-bind="foreach:tags"><span class ="questions_tags" data-bind="text:$data"></span></div>
+            <div class="Questions_score_block">
+            <span class="question_score_sign">&#x270C;</span><div data-bind="text: score" id="score"></div>
+            </div>
+        </div>
+
+
+
+    </div>
+    <span class="page_status">Results: </span>
+    <span data-bind="text: total"></span>
+    <span class="page_status">Pages: </span>
+    <span data-bind="text: totalPages"></span>
+    <span class="page_status">Page: </span>
+    <span data-bind="text: pageNumber"></span><br><br>
+    <span data-bind="if: prev"><button class="page_button" data-bind="click: prevClick"><span style="font-size:11px;">&#9668;</span>&nbsp  Prev</button></span>
+    <span data-bind="if: next"><button class="page_button" data-bind="click: nextClick">Next  &nbsp<span style="font-size:11px;"> &#9658;</span></button></span>
+    <div class="spacer"></div>
+</div>

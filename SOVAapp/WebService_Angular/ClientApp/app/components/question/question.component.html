@@ -1,0 +1,95 @@
+<div id="loading" *ngIf="!questionReady">
+    <span>Loading</span>
+    <div class="dotsContainer">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+<br/><br /><br />
+<div id="MarkButton"  *ngIf="!isMarked && questionReady" (click)="markThis()">
+    <span>&#9733;</span>
+
+</div>
+
+<div id="UnMarkButton" *ngIf="isMarked && questionReady"  (click)="unMarkThis()">
+    <span>&#x2718;</span>
+
+</div>
+
+<div class="container-fluid"  *ngIf="questionReady">
+    <!--Annotation Box-->
+
+    <div *ngIf="isMarked && questionReady">
+        <annotations *ngIf="myAnnotationUrl" [parentdata]="myAnnotationUrl"></annotations>
+    </div>
+
+    <!--LinkedPosts Box-->
+
+    <div class="linked_posts" *ngIf="question.linkedPosts.length">
+        <div>
+            <span id="linkposts_button" class="accordion-toggle" data-toggle="collapse-next"><h2>{{question.linkedPosts.length}}</h2> <h2>Linked Posts</h2><span>&#9660;</span></span>
+        </div>  
+        <div id="links" class="accordion-body collapse out  ">
+            <div *ngFor="let l of question.linkedPosts">
+                <div data-toggle="collapse" data-target="#links"  (click)="goToQuestion(l.id)"  class="linked_posts_title">Title: <div>{{l.postTitle}}</div> </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="questionContainer">
+
+        <!--Header-->
+        <div class="row">
+            <div class="col-xs-12">
+                <div id="title">{{question.title}}</div>
+            </div>
+        </div>
+
+        <!--Creation date-->
+        <div class="row">
+            <div class="col-xs-1"></div>
+            <div class="col-xs-12 col-md-11">
+                <span class="time_icon"></span> <div id="question_date">{{question.creationDate}}</div>
+            </div>
+        </div>
+
+        <!--Score & body-->
+        <div class="row">
+            <!--Score-->
+            <div class="col-xs-1">
+                <span class="question_score_sign">&#x270C;</span><div id="score">{{question.score}}</div>
+            </div>
+            <!--Body-->
+            <div class="col-xs-11">
+                <div id="body" style="float: left" [innerHtml]="question.body"></div>
+            </div>
+
+        </div>
+      
+        <!--Comments-->
+        <div class="row">
+            <div class="col-xs-12 col-sm-11 col-sm-offset-1 col-md-11 col-md-offset-1 col-lg-11 col-lg-offset-1">
+                <comments *ngIf='question.commentsUrl'  [parentdata]="question.commentsUrl"></comments>
+            </div>
+        </div> 
+
+        <!--Answers -->
+        <div class="row">
+            <div class="col-xs-11 col-xs-offset-1 col-md-10 col-md-offset-2">
+                <div  id="answer">
+                    <answers *ngIf='question.answersUrl'   [parentdata]="question.answersUrl" ></answers>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+    </div>

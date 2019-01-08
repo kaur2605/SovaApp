@@ -1,0 +1,58 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse-next" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span> <h1 id="logoh1"> <span class="glitch" href="#" data-text="app">sova</span></h1></span>
+
+        </div>
+
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class='nav navbar-nav navbar-right'>
+            
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/homepage']">
+                        Home
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/search']" [queryParams]="{}">
+                        Search
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/questions']" [queryParams]="{ page:0, url:questionsUrl }">
+                       Questions
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/users']" [queryParams]="{ page:0 }">
+                        Users
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/markings']" [queryParams]="{ page:0 }">
+                        Markings
+                    </a>
+                </li>
+
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/customization']">
+                        Customization
+                    </a>
+                </li>
+             
+
+            </ul>
+        </div>
+
+    </div><!-- /.container-fluid -->
+
+
+</nav>

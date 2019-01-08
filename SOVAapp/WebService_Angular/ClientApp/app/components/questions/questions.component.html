@@ -1,0 +1,49 @@
+
+
+    <h1 id="Home_title">Questions</h1>
+<div>
+    <div id="loading" *ngIf="!questions">
+        <span>Loading</span>
+        <div class="dotsContainer">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+
+
+    <div class="questions_container" >
+        <div *ngFor="let q of questions.data">
+            <div (click)="goToQuestion(q.postId)">
+                <div class="question_container">
+                    <div class="questions_title"><span>{{q.title}}</span></div>
+
+                    <div class="questions_user"><span class="user_icon"></span><span class="questions_user_name"> {{q.userName}}</span></div>
+                    <span class="tags_icon"></span><div class="questions_tags_container" *ngFor="let t of q.tags"><span class="questions_tags"> {{t}}</span></div>
+                    <div class="Questions_score_block">
+                        <span class="question_score_sign">&#x270C;</span><div id="score">{{q.score}}</div>
+                    </div>
+
+                </div>
+                <!--<a [routerLink]="['/question', q.postId]">
+
+                </a>-->
+            </div>
+        </div>
+
+    </div>
+
+
+    <span class="page_status">Results: </span>
+    <span total>{{questions.total}}</span>
+    <span class="page_status">Pages: </span>
+    <span>{{questions.pages}}</span>
+    <span class="page_status">Page: </span>
+    <span>{{questions.page + 1}}</span><br><br>
+    <span *ngIf="questions.prev"><button class="page_button" (click)="goToPrevPage(questions.prev,questions.page)"><span style="font-size:11px;">&#9668;</span>&nbsp;  Prev</button></span>
+    <span *ngIf="questions.next"><button class="page_button" (click)="goToNextPage(questions.next,questions.page)">Next &nbsp;<span style="font-size:11px;"> &#9658;</span></button></span>
+    <div class="spacer"></div>
+
+    <div class="spacer"></div>
+
+</div>

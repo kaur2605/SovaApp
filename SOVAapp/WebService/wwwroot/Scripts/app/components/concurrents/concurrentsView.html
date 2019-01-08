@@ -1,0 +1,38 @@
+﻿
+<style>
+    svg {
+        display: block;
+        margin-left: -234px;
+    }
+
+    .link {
+        stroke: #ccc;
+    }
+
+    .node text {
+        pointer-events: none;
+        font: 14px sans-serif;
+    }
+
+</style>
+<h1>Term Concurrents</h1>
+<p>In this page you can enter a keyword and get an overview on all the words that has been appeared along with 
+the entered term. After you've entered your word in the text field bellow, you need to click on the 'Fetch Data'
+    button first and wait until the big button 'Get Term Networks' becomes blue ( so that it's activated ) and finally press it. Enjoy the results...<span class="myHtmlSmiley">&#9787;</span></p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th id="thsearchbar" class="my_searchbar_th">
+                <lable>Enter only one word bellow:</lable>
+                <input id="mySearchBar" type="text" data-bind="textInput:word" name="FirstName" >
+
+            </th>
+            <th class="my_searchbar_th">
+                <button id="submit" data-bind="click:updateWord" type="submit" class="btn btn-primary">Fetch Data</button>
+            </th>
+        </tr>
+    </thead>
+</table>
+
+<button id="getTermNetworks"  data-bind="click:execute, enable:myCode">Get Term Networks</button>
+

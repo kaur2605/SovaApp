@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApplication1</title>
+    <base href="~/" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="~/dist/jqcloud2/dist/jqcloud.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/dist/vendor.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Style.css" asp-append-version="true" />
+
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+</head>
+
+<body>
+   
+
+    @RenderBody()
+
+    @RenderSection("scripts", required: false)
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="~/dist/jqcloud2/dist/jqcloud.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        //Comments Collapsing
+
+        $(document).ready(function () {
+
+
+            $(this).on('click.collapse-next.data-api', '[data-toggle=collapse-next]', function () {
+                var $target = $(this).parent().next()
+                $target.data('collapse') ? $target.collapse('toggle') : $target.collapse('toggle')
+            });
+
+
+
+        });
+
+    </script>
+    <div id="cloud" style="width: 200px; height: 200px"></div>
+</body>
+</html>

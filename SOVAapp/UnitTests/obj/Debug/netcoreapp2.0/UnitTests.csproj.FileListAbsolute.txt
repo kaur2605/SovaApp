@@ -1,0 +1,70 @@
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb

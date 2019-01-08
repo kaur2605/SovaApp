@@ -1,0 +1,37 @@
+﻿
+<div data-bind="" id="annotations_box" class="linked_posts">
+
+    <span id="annotations_box_button" data-toggle="collapse" data-target="#Anott"><h2 data-bind="text:annotationsLength"></h2> <h2>Annotations</h2><span>&#9660;</span></span>
+    <div id="Anott" class="collapse">
+        <div data-bind="foreach:annotations">
+            <div data-toggle="collapse" class="annotations_text">Note: <div class="annot_text" data-bind="visible:($parent.currentEdit() !== editAnnotation),text:annotationText"></div>  
+            
+                <textarea data-bind="visible:($parent.currentEdit() === editAnnotation), textInput:annotationText "class="form-control myForm" rows="5" id="comment"></textarea>
+           <!--Delete-->
+            <span class="delete_annot" data-bind="click: $parent.deleteAnnotation.bind($data, removeAnnotation)">Delete</span>
+            <!--Edit-->
+            <span data-bind="visible:($parent.currentEdit() !== editAnnotation) , click: $parent.startEditing.bind($data, editAnnotation)" class="edit_annot">Edit</span>
+            <!--Save-->
+            <span data-bind="visible:($parent.currentEdit() === editAnnotation), click: $parent.editAnnotation.bind($data, annotationText,editAnnotation )" class="edit_annot">Save</span></div>
+
+        </div>
+    </div>
+
+</div>
+
+
+<div id="AnnotButton" data-bind="click: addAnottation">
+    <span>&#9998;</span>
+
+</div>
+
+
+<div data-bind="if: isNewAnnotation">
+    <section id="annotation_box">
+        <div id="triangle"></div>
+        <span data-bind="click:abortAnnotation" id="cancelAnnot">&#10005;</span>
+        <div><textarea id="annotation_text_field" data-bind="textInput: annotationBody"></textarea></div>
+        <button id="annotation_submit_button" class="page_button" data-bind="click: createAnnotation.bind($data, annotationBody)">Create Annotation</button>
+    </section>
+</div>
+

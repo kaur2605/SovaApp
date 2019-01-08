@@ -1,0 +1,31 @@
+
+<div class="accordion-group" *ngIf="comments.total" >
+    <div class="accordion-heading">
+        <div class="comments_opener accordion-toggle" data-toggle="collapse-next">
+            <span class="comments_total" >{{comments.total}}</span>
+            <h3 id="comment_h1">Comments</h3>
+            <span id="triangle_down">&#9660;</span>
+        </div>
+    </div>
+
+    <div class="accordion-body collapse out">
+
+        <div class="comments_main accordion-inner" >
+            <div *ngFor="let c of comments.data">
+
+                <div class="comments_block">
+                    <div class="questions_user"><span class="user_icon"></span><span class="questions_user_name">{{c.userName}}</span></div>
+                    <br />
+                    <span class="time_icon"></span><span id="date"> {{c.creationDate}}</span>
+                    <span class="answerscore"><span class="score_sign">&#x270C;</span><span>{{c.score}}</span></span>
+                    <span class="answer_body"  [innerHtml]="c.body" id="body"></span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

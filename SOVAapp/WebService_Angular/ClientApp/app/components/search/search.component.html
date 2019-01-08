@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<body>
+
+
+    <div id="loading" *ngIf="isSearching">
+        <span>Loading</span>
+        <div class="dotsContainer">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th id="thsearchbar" class="my_searchbar_th">
+
+                    <input id="mySearchBar" type="text" [(ngModel)]="searchText" [ngModelOptions]="{standalone: true}" name="FirstName" value="Mickey">
+
+                </th>
+                <th class="my_searchbar_th">
+                    <button id="submit"  (click)="startSearching()" type="submit" class="btn btn-primary">GO!</button>
+                </th>
+            </tr>
+        </thead>
+    </table>
+
+    <div class="linked_posts">
+        <div>
+            <span id="linkposts_button"  data-target="#links"><h2> {{searchHistory.data.length}}</h2> <h2>Search history </h2><span>&#9660;</span></span>
+        </div>
+            <div id="links" class="collapse">
+            <div  *ngFor="let sh of searchHistory.data">
+
+                <div data-toggle="collapse-next" data-target="#links" (click)="searchItAgain(sh.searchText) " class="linked_posts_title"><div>{{sh.searchText}}</div> </div>
+
+            </div>
+        </div>
+    </div>
+    <br />
+    <!--Search Data-->
+    <div *ngIf="searches.data">
+        <div id="mySearchData">
+            <div *ngFor="let s of searches.data">
+                <div class="searchTR" (click)="goToQuestion(s.postId)">
+
+                    <!--WordCloud -->
+                    <jcloud [parentdata]="s.postId"></jcloud>
+                    <div class="searchedTitel">{{s.postTitle}}</div>
+                    <span class="tags_icon"></span><div class="questions_tags_container" *ngFor="let t of s.tags"><span class="questions_tags">{{t}}</span></div>
+                </div>
+            </div>
+        </div>
+
+
+        <span class="page_status">Results: </span>
+        <span>{{searches.total}}</span>
+        <span class="page_status">Pages: </span>
+        <span>{{searches.pages}}</span>
+        <span class="page_status">Page: </span>
+        <span>{{searches.page + 1}}</span><br><br>
+        <span *ngIf="searches.prev"><button class="page_button" (click)="goToPrev(searches.prev,searches.page)"><span style="font-size:11px;">&#9668;</span>&nbsp;  Prev</button></span>
+        <span *ngIf="searches.next"><button class="page_button" (click)="goToNext(searches.next,searches.page )">Next  &nbsp;<span style="font-size:11px;"> &#9658;</span></button></span>
+    </div>
+    <div class="spacer"></div>
+</body>

@@ -1,0 +1,48 @@
+
+<div id="loading" *ngIf="loading">
+    <span>Loading</span>
+    <div class="dotsContainer">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+
+<h3>Customization</h3>
+
+<div>
+
+    <div>
+        <span class="customefieldtitle">Selected Post Limit: </span> <span >{{customization.postLimit}}</span>
+    </div>
+
+
+    <div>
+        <span class="customefieldtitle">Your Favourite Tags: </span> <span *ngFor="let f of customization.favortieTags">
+
+            <span class="questions_tags">{{f}}</span>
+        </span>
+    </div>
+    <div>
+        <span class="customefieldtitle">Created on: </span><span>{{customization.creationDate}}</span>
+    </div>
+
+    <form (ngSubmit)="saveCustomeField()">
+
+        <div class="form-group">
+            <label for="usr">Post Limit:</label>
+            <input type="text" class="form-control"  [(ngModel)]="newPostlimit" [ngModelOptions]="{standalone: true}"
+(click)="currentpostLimitToedit(customization.postLimit)" id="usr" required>
+        </div>
+
+        <div class="form-group">
+            <label for="exampleTextarea">Tags</label> Seperate each tag by comma ','
+            <textarea class="form-control" id="exampleTextarea" rows="3" [(ngModel)]="newCustomeTags" [ngModelOptions]="{standalone: true}" (click)="currentTagsToedit(customization.favortieTags)" required></textarea>
+        </div>
+
+
+        <button id="submit" type="submit" class="btn btn-primary">Save changes</button>
+    </form>
+
+
+</div>

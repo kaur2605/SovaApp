@@ -1,0 +1,19 @@
+
+
+<h3>Answers</h3>
+<div *ngFor="let a of answers.data">
+    <div class="each_answer">
+        <div class="questions_user"><span class="user_icon"></span><span class="questions_user_name">{{a.userName}}</span></div>
+        <br />
+        <span class="time_icon"></span><span id="date">{{a.creationDate}}</span>
+        <span class="answerscore"><span class="score_sign">&#x270C;</span><span>{{a.score}}</span></span>
+        <span class="answer_body" [innerHtml]="a.body" id="body"></span>
+        <!--Comments-->
+        <div class="row">
+            <div class="col-xs-12 col-sm-11 col-sm-offset-1 col-md-11 col-md-offset-1 col-lg-11 col-lg-offset-1">
+                <comments  *ngIf='a.commentsUrl'  [parentdata]="a.commentsUrl"></comments>
+            </div>
+        </div>
+    </div>
+</div>
+

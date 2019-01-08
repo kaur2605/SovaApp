@@ -1,0 +1,117 @@
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Ricky\source\repos\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Arash\Documents\GitHub\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Arash\Desktop\pp4\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Documents\GitHub\RAWDATAPROJECT\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\aabedin\Source\Repos\RAWDATAPROJECTS2\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\GitHub1\RAWDATAPROJECTS1\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.deps.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.runtimeconfig.dev.json
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\WebService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\bin\Debug\netcoreapp2.0\DataService.pdb
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfoInputs.cache
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.AssemblyInfo.cs
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.dll
+C:\Users\Mohammad Mosiur Rahm\Desktop\githubNew\SOVAapp\WebService\obj\Debug\netcoreapp2.0\WebService.pdb
